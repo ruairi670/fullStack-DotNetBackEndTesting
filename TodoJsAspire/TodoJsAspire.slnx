@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="TodoJsAspire.ApiService/TodoJsAspire.ApiService.csproj" />
+  <Project Path="TodoJsAspire.AppHost/TodoJsAspire.AppHost.csproj" />
+  <Project Path="TodoJsAspire.ServiceDefaults/TodoJsAspire.ServiceDefaults.csproj" />
+</Solution>
